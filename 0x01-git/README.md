@@ -1,1 +1,2 @@
-I am getting it
+I am getting it.
+Now up to date
